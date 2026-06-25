@@ -58,14 +58,14 @@ Each layer produces both **technical keywords** (for structured data) and **natu
 
 ```bash
 # Clone to your project's .claude/skills/ directory
-git clone https://github.com/YOUR_USERNAME/video-captioner.git
+git clone https://github.com/OrionEthan-X/gvideo-captioner-optional-.git
 cp -r video-captioner /your-project/.claude/skills/
 ```
 
 Or as a standalone Claude Code project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-captioner.git
+git clone https://github.com/OrionEthan-X/gvideo-captioner-optional-.git
 cd video-captioner
 # Start Claude Code — the skill auto-loads
 claude
@@ -288,7 +288,7 @@ Video Captioner（视频标注助手）是一个 Claude Code Skill，以专业**
 ### 快速开始
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-captioner.git
+git clone https://github.com/OrionEthan-X/gvideo-captioner-optional-.git
 cd video-captioner
 claude  # 启动 Claude Code，Skill 自动加载
 ```
